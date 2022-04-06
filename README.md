@@ -1,5 +1,5 @@
 ## skema alat 
-1.menu pertama kali menampilkan pondomo 
+1. menu pertama kali menampilkan pondomo 
  
 2. terdapat pilihan ("masukan jumlah titik pengujian ")
 
